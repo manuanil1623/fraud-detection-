@@ -1,0 +1,13 @@
+transaction_id,customer_id,amount,currency,transaction_country,home_country,device_id,transaction_date,category
+tx_1,user_1,42.50,USD,US,US,device_1_a,2026-06-10T09:15:00Z,groceries
+tx_2,user_1,38.20,USD,US,US,device_1_a,2026-06-12T18:42:00Z,dining
+tx_3,user_1,55.00,USD,US,US,device_1_a,2026-06-14T12:05:00Z,groceries
+tx_4,user_1,890.00,USD,RU,US,device_1_unknown,2026-06-15T03:10:00Z,gift_card
+tx_5,user_2,120.00,USD,GB,GB,device_2_a,2026-06-11T14:20:00Z,electronics
+tx_6,user_2,115.00,USD,GB,GB,device_2_a,2026-06-13T10:00:00Z,electronics
+tx_7,user_2,130.00,USD,GB,GB,device_2_a,2026-06-16T11:30:00Z,clothing
+tx_8,user_3,60.00,USD,DE,DE,device_3_a,2026-06-09T08:00:00Z,subscription
+tx_9,user_3,2400.00,USD,NG,DE,device_3_unknown,2026-06-17T02:45:00Z,crypto
+tx_10,user_4,25.00,USD,CA,CA,device_4_a,2026-06-12T19:10:00Z,dining
+tx_11,user_4,30.00,USD,CA,CA,device_4_a,2026-06-13T20:00:00Z,dining
+tx_12,user_4,28.00,USD,CA,CA,device_4_a,2026-06-15T19:45:00Z,groceries
